@@ -1,0 +1,7 @@
+frmRoom = -2, 74, 800, 514, C, 0, 0, 0, 0, C
+modDeclares = 62, 66, 775, 552, C
+clsChat = 25, 65, 777, 547, C
+frmMenu = 102, 86, 669, 498, C, 0, 0, 0, 0, C
+frmPrivateChat = 28, 72, 786, 577, C, 0, 0, 0, 0, C
+frmPrivateMessage = 20, 51, 770, 534, C, 0, 0, 0, 0, C
+frmOptions = 82, 90, 669, 539, C, 0, 0, 0, 0, C
